@@ -1,0 +1,46 @@
+.container{
+    border: 2px solid black;
+    margin: 50px;
+    padding: 35px;
+    
+}
+h1 {
+    background-color: blanchedalmond;
+    font: 5em sans-serif;
+    padding: 10px;
+    text-align: center;
+}
+div.card{
+    width: 18rem; background-color: gray; border: 2px solid black; border-radius: 15px; margin: 10px;
+}
+h2.card-text {
+    color: white;
+    font: 2em sans-serif;
+    text-align: center;
+}
+div.card-header {
+    border: 2px solid black;
+    border-radius: 5px;
+    color: white;
+    font: 17pt sans-serif;
+    text-align: center;
+}
+ul.list-group {
+    border: 2px solid gr;
+    border-radius: 15px;
+}
+img.card-img-top{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    height: 100%;
+    cursor: pointer;
+    margin-top: 10px;
+}
+h4.card-cap {
+    color: red;
+    font: 15pt sans-serif;
+    text-align: center;
+}
